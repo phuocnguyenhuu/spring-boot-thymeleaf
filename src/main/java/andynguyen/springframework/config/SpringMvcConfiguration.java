@@ -11,7 +11,7 @@ import org.springframework.web.servlet.i18n.SessionLocaleResolver;
 import java.util.Locale;
 
 /**
- * Created by jt on 1/25/16.
+ * Created by Phuoc Nguyen Huu on 05-10-2023.
  */
 @Configuration
 public class SpringMvcConfiguration extends WebMvcConfigurerAdapter {
